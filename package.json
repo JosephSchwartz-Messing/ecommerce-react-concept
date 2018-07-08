@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-react-concept",
   "version": "0.1.0",
-  "homepage": "http://josephschwartz-messing.github.io/ecommerce-react-concept/",
+  "homepage": "https://josephschwartz-messing.github.io/ecommerce-react-concept/",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
